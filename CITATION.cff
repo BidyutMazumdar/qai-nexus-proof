@@ -1,19 +1,24 @@
 # ====================================================================================================
 # CITATION.cff
 # FAIR+D Canon™ / QAI-NEXUS-PROOF™
-# Constitutional Sovereign Computational Governance & Reproducibility Infrastructure
+# CONSTITUTIONAL SOVEREIGN COMPUTATIONAL GOVERNANCE &
+# REPRODUCIBILITY VALIDATION INFRASTRUCTURE
+# VERSION 2 — ARCHIVAL • PUBLICATION • REPRODUCIBILITY EDITION
 # ====================================================================================================
 
 cff-version: 1.2.0
 
 message: >
   If you use, reference, validate, reproduce, benchmark, analyze,
-  or build upon FAIR+D Canon™ or QAI-NEXUS-PROOF™ research infrastructures,
-  computational governance architectures, reproducibility systems,
-  deterministic validation pipelines, sovereign orchestration frameworks,
-  or associated benchmark ecosystems, please cite the canonical FAIR+D Canon™ DOI architecture.
+  compare, audit, or build upon FAIR+D Canon™ or QAI-NEXUS-PROOF™
+  infrastructures, deterministic validation systems, sovereign
+  orchestration architectures, reproducibility pipelines,
+  computational governance frameworks, or benchmark ecosystems,
+  please cite the canonical FAIR+D Canon™ DOI architecture.
 
-title: "QAI-NEXUS-PROOF™: Reproducible Computational Validation Framework"
+title: >
+  QAI-NEXUS-PROOF™:
+  Reproducible Computational Validation Framework
 
 type: software
 
@@ -21,8 +26,8 @@ authors:
   - family-names: "Mazumdar"
     given-names: "Bidyut"
     name-particle: "Dr."
-    orcid: "https://orcid.org/0009-0007-5615-3558"
     affiliation: "Independent Researcher-Scholar"
+    orcid: "https://orcid.org/0009-0007-5615-3558"
 
 identifiers:
   - type: doi
@@ -38,23 +43,31 @@ repository-code: "https://github.com/BidyutMazumdar/qai-nexus-proof"
 url: "https://github.com/BidyutMazumdar/qai-nexus-proof"
 
 abstract: >
-  QAI-NEXUS-PROOF™ is a constitutional-grade reproducible computational
-  validation and deterministic execution infrastructure developed under the
-  FAIR+D Canon™ sovereign governance ecosystem.
+  QAI-NEXUS-PROOF™ is a publication-grade reproducible computational
+  validation and deterministic execution infrastructure developed under
+  the FAIR+D Canon™ sovereign governance ecosystem.
 
-  The framework integrates deterministic replay validation, Monte Carlo
-  simulation architectures, bootstrap statistical verification,
-  runtime telemetry infrastructures, cryptographic integrity validation,
-  reproducibility governance systems, execution lineage preservation,
-  and sovereign computational auditability into a unified publication-grade
-  computational governance architecture.
+  The framework integrates deterministic replay validation,
+  Monte Carlo simulation architectures, bootstrap statistical
+  verification, runtime telemetry infrastructures,
+  cryptographic execution integrity validation,
+  execution lineage preservation,
+  sovereign computational auditability,
+  reproducibility governance systems,
+  and publication-grade computational verification workflows.
 
-  The repository establishes transparent, reproducible, auditable,
-  statistically verifiable, and integrity-preserving validation workflows
-  suitable for sovereign computational governance research,
-  high-integrity systems engineering, scientific reproducibility analysis,
-  AI governance research, computational validation science,
-  and constitutional infrastructure experimentation.
+  The repository establishes transparent, reproducible,
+  auditable, statistically verifiable,
+  integrity-preserving computational infrastructures suitable for:
+
+  • sovereign computational governance research
+  • AI governance experimentation
+  • reproducible systems engineering
+  • computational validation science
+  • deterministic execution analysis
+  • scientific auditability infrastructures
+  • high-integrity validation ecosystems
+  • constitutional computational architecture research
 
 keywords:
   - FAIR+D Canon
@@ -69,16 +82,16 @@ keywords:
   - runtime telemetry
   - execution integrity
   - distributed systems
-  - validation framework
+  - reproducible research
   - AI governance
   - computational auditability
   - orchestration systems
   - sovereign AI
+  - validation framework
   - infrastructure validation
   - constitutional systems engineering
-  - reproducible research
 
-license: "FAIR+D LICENSE™ V1.0 — All Rights Reserved — Non-Commercial — No Unauthorized Derivatives"
+license: "LicenseRef-FAIRD-License-v1"
 
 version: "2.1"
 
@@ -95,8 +108,8 @@ preferred-citation:
 
   title: >
     FAIR+D Canon™ / QAI-NEXUS-PROOF™:
-    Constitutional Sovereign Computational Validation &
-    Reproducibility Infrastructure
+    Constitutional Sovereign Computational Validation
+    & Reproducibility Infrastructure
 
   version: "2.1"
 
@@ -109,33 +122,25 @@ preferred-citation:
   year: 2026
 
 references:
-  - type: generic
+  - type: software
     title: "Canonical FAIR+D Canon™ DOI Record"
     doi: "10.5281/zenodo.19188944"
 
-  - type: generic
+  - type: software
     title: "FAIR+D Canon™ Version 2 DOI Record"
     doi: "10.5281/zenodo.20345444"
 
-repository-artifact: >
-  Constitutional-grade sovereign computational governance and
-  reproducibility validation infrastructure.
-
-contact:
-  - name: "Dr. B. Mazumdar"
-    orcid: "https://orcid.org/0009-0007-5615-3558"
-
 # ====================================================================================================
 # FAIR+D Canon™
-# Constitutional Sovereign Computational Governance Infrastructure
+# CONSTITUTIONAL SOVEREIGN COMPUTATIONAL GOVERNANCE INFRASTRUCTURE
 #
 # © 2026 Dr. B. Mazumdar
 # ALL RIGHTS RESERVED
 #
-# Canonical DOI:
+# CANONICAL DOI:
 # 10.5281/zenodo.19188944
 #
-# Version DOI:
+# VERSION DOI:
 # 10.5281/zenodo.20345444
 #
 # ORCID:
