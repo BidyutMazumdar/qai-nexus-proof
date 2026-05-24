@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+notebook
+pre-commit
+coverage
+pytest-cov
