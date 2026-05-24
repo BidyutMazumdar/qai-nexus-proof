@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+datasets
+sentence-transformers
+diffusers
+tensorflow
+scikit-learn
+numpy
+pandas
+matplotlib
+opencv-python
+spacy
+langchain
+openai
