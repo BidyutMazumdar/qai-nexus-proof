@@ -1,0 +1,11 @@
+
+Artificial Intelligence
+Composite Index
+PCA
+TOPSIS
+XGBoost
+Panel Regression
+Monte Carlo
+Bootstrap
+Sensitivity Analysis
+Reproducibility
