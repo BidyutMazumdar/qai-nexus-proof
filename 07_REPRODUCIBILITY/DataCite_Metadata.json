@@ -1,0 +1,28 @@
+{
+    "identifier": {
+        "identifier": "10.5281/zenodo.20345444",
+        "identifierType": "DOI"
+    },
+    "creators": [
+        {
+            "name": "Dr. B. Mazumdar",
+            "nameType": "Personal",
+            "nameIdentifiers": [
+                {
+                    "nameIdentifier": "https://orcid.org/0009-0007-5615-3558",
+                    "nameIdentifierScheme": "ORCID"
+                }
+            ]
+        }
+    ],
+    "titles": [
+        {
+            "title": "QAI-NEXUS"
+        }
+    ],
+    "publisher": "Zenodo",
+    "publicationYear": 2026,
+    "resourceType": {
+        "resourceTypeGeneral": "Software"
+    }
+}

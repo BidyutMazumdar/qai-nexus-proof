@@ -1,0 +1,22 @@
+
+name: qai_nexus
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - xgboost
+  - shap
+  - statsmodels
+  - linearmodels
+  - openpyxl
+  - joblib
+  - networkx
+  - tqdm
+  - pyyaml

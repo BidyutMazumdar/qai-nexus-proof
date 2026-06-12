@@ -1,0 +1,21 @@
+{
+    "title": "QAI-NEXUS",
+    "upload_type": "software",
+    "description": "Publication-grade computational framework",
+    "creators": [
+        {
+            "name": "Dr. B. Mazumdar",
+            "orcid": "0009-0007-5615-3558"
+        }
+    ],
+    "keywords": [
+        "AI",
+        "PCA",
+        "TOPSIS",
+        "XGBoost",
+        "Panel Regression",
+        "Monte Carlo",
+        "Bootstrap",
+        "Reproducibility"
+    ]
+}
