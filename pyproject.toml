@@ -1,8 +1,0 @@
-[project]
-name = "qai-nexus-proof"
-version = "1.0.0"
-description = "Quantum-AI reproducibility validation framework"
-authors = [
-  {name = "Dr. B. Mazumdar"}
-]
-requires-python = ">=3.11"
