@@ -1,0 +1,10 @@
+Figure,Caption
+Figure01_PCA_ExplainedVariance,Explained variance across principal components.
+Figure02_TOPSIS_Distribution,Distribution of TOPSIS composite scores.
+Figure03_TOP20_Ranking,Top-ranked entities based on the composite index.
+Figure04_XGBoost_Importance,Relative feature importance estimated by XGBoost.
+Figure05_MonteCarlo_Distribution,Distribution of Monte Carlo simulation outputs.
+Figure06_Bootstrap_Distribution,Bootstrap resampling distribution.
+Figure07_Sensitivity_Curve,Sensitivity of ranking outcomes to perturbation.
+Figure08_Correlation_Heatmap,Correlation structure among numerical variables.
+Graphical_Abstract,Overview of the QAI-NEXUS computational workflow.
