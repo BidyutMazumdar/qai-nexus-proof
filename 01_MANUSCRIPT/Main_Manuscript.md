@@ -1,38 +1,20 @@
-<div align="center">
-
 # QAI-NEXUS-PROOF™
+## Quantum-AI Energy Synchronization Nexus
+## Reproducible Computational Validation Framework
 
-### Quantum-AI Energy Synchronization Nexus
-### Reproducible Computational Validation Framework
-
-Reproducible computational validation infrastructure for deterministic execution, statistical robustness assessment, telemetry inspection, integrity verification, harmonized data integration, and transparent scientific reproducibility workflows.
-
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Research](https://img.shields.io/badge/Research-Computational%20Validation-success.svg)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-Deterministic-brightgreen.svg)
-![MonteCarlo](https://img.shields.io/badge/Monte%20Carlo-Validated-orange.svg)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Verified-blueviolet.svg)
-![Telemetry](https://img.shields.io/badge/Runtime-Telemetry-critical.svg)
-![Integrity](https://img.shields.io/badge/Integrity-SHA256-darkgreen.svg)
-![License](https://img.shields.io/badge/License-Research%20Protected-darkred.svg)
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20345444-informational.svg)
-
-</div>
+Reproducible computational validation infrastructure for deterministic execution, statistical robustness assessment, telemetry inspection, cryptographic integrity verification, harmonized data integration, computational provenance preservation, environment reconstruction, and transparent scientific reproducibility workflows.
 
 ---
 
 # DOI References
 
 ## Canonical DOI
-
 https://doi.org/10.5281/zenodo.19188944
 
 ## Latest DOI
-
 https://doi.org/10.5281/zenodo.20345444
 
 ## ORCID
-
 https://orcid.org/0009-0007-5615-3558
 
 ---
@@ -41,7 +23,7 @@ https://orcid.org/0009-0007-5615-3558
 
 ## Title
 
-**QAI-NEXUS-PROOF™: A Reproducible Computational Validation Framework for Harmonized Analysis of Human Development, Innovation, Energy Systems, Carbon Emissions, and Computational Governance Indicators**
+**QAI-NEXUS-PROOF™: A Reproducible Computational Validation Framework for Harmonized Analysis of Human Development, Innovation, Energy Systems, Carbon Emissions, Digital Infrastructure, and Computational Governance Indicators**
 
 ---
 
@@ -57,19 +39,19 @@ Independent Research Scholar
 
 # Abstract
 
-QAI-NEXUS-PROOF™ presents a reproducible computational validation framework designed for harmonized integration, verification, and analysis of multidisciplinary global datasets spanning human development, innovation performance, electricity generation, information and communication technology indicators, and carbon emissions. The framework establishes a transparent computational workflow supporting deterministic execution, statistical robustness assessment, runtime telemetry inspection, integrity-preserving validation, and environment reconstruction.
+QAI-NEXUS-PROOF™ presents a reproducible computational validation framework designed for the harmonized integration, verification, and analysis of multidisciplinary global datasets spanning human development, innovation performance, electricity generation, information and communication technology indicators, and carbon emissions. The framework establishes a transparent computational workflow supporting deterministic execution, statistical robustness assessment, runtime telemetry inspection, integrity-preserving validation, computational provenance tracking, and environment reconstruction.
 
-The study integrates internationally recognized datasets from the United Nations Development Programme (UNDP), World Intellectual Property Organization (WIPO), International Telecommunication Union (ITU), Ember Global Electricity Data, and carbon emissions repositories to construct a publication-grade country-level analytical dataset. Harmonization procedures include schema alignment, country normalization, integrity validation, duplicate detection, missing-value inspection, metadata preservation, and computational provenance tracking.
+The study integrates internationally recognized datasets from the United Nations Development Programme (UNDP), World Intellectual Property Organization (WIPO), International Telecommunication Union (ITU), Ember Global Electricity Data, and carbon emissions repositories to construct a publication-grade country-level analytical dataset. Harmonization procedures include schema alignment, country normalization, ISO3 reconciliation, duplicate detection, integrity verification, missing-value assessment, metadata preservation, and computational traceability.
 
-The framework further incorporates correlation analysis, composite nexus score construction, Monte Carlo robustness testing, bootstrap confidence validation, cryptographic execution verification, runtime telemetry generation, and environment manifest reconstruction. Generated outputs support transparent scientific auditing, computational traceability, reproducibility assessment, and long-term research preservation.
+The framework further incorporates correlation analysis, composite nexus score construction, Monte Carlo robustness testing, bootstrap confidence validation, cryptographic execution verification, runtime telemetry generation, environment manifest reconstruction, and reproducibility artifact generation. The resulting infrastructure supports transparent scientific auditing, computational governance, reproducibility assessment, and long-term research preservation.
 
-The resulting infrastructure demonstrates a scalable approach for computational governance research, reproducible analytics, and evidence-based assessment of relationships among development, innovation, energy, and environmental indicators.
+The validated workflow demonstrates a scalable and auditable approach for evidence-based assessment of relationships among development, innovation, energy systems, environmental sustainability, and digital infrastructure indicators.
 
 ---
 
 ## Keywords
 
-Artificial Intelligence; Computational Validation; Scientific Reproducibility; Monte Carlo Simulation; Bootstrap Validation; Telemetry Analytics; Integrity Verification; Harmonized Data Systems; Innovation Analytics; Human Development; Carbon Emissions; Energy Systems; Computational Governance
+Artificial Intelligence; Computational Validation; Scientific Reproducibility; Monte Carlo Simulation; Bootstrap Validation; Telemetry Analytics; Integrity Verification; Harmonized Data Systems; Innovation Analytics; Human Development; Carbon Emissions; Energy Systems; Digital Infrastructure; Computational Governance; Research Traceability
 
 ---
 
@@ -77,28 +59,30 @@ Artificial Intelligence; Computational Validation; Scientific Reproducibility; M
 
 ## Background
 
-Scientific reproducibility represents a foundational requirement for transparent computational research. Increasing reliance on complex data-driven systems necessitates rigorous validation mechanisms capable of ensuring traceable, verifiable, and reproducible analytical outcomes across diverse computational environments.
+Scientific reproducibility is a foundational requirement for transparent and trustworthy computational research. Increasing reliance on complex data-driven systems necessitates rigorous validation mechanisms capable of ensuring traceable, verifiable, and reproducible analytical outcomes across heterogeneous computational environments.
 
 ## Motivation
 
-Global policy and research challenges increasingly require integration of heterogeneous datasets spanning development, innovation, energy systems, environmental sustainability, and digital infrastructure. Reliable harmonization and validation frameworks are necessary to support evidence-based analysis while preserving transparency and reproducibility.
+Global policy and research challenges increasingly require integration of diverse datasets spanning development, innovation, energy systems, environmental sustainability, and digital infrastructure. Reliable harmonization and validation frameworks are essential for evidence-based analysis while preserving transparency, accountability, and reproducibility.
 
 ## Research Gap
 
-Existing analytical workflows frequently emphasize model development while providing limited support for deterministic validation, telemetry inspection, integrity verification, and environment reconstruction. Reproducibility artifacts are often incomplete, limiting scientific traceability and independent verification.
+Existing analytical workflows frequently emphasize model construction while providing limited support for deterministic validation, telemetry inspection, integrity verification, environment reconstruction, and computational provenance preservation. Reproducibility artifacts are often incomplete, reducing scientific traceability and independent verification capability.
 
 ## Contributions
 
 - Harmonized integration of multidisciplinary international datasets
 - Deterministic computational validation architecture
+- Publication-grade reproducibility infrastructure
 - Monte Carlo robustness assessment framework
 - Bootstrap confidence validation workflow
 - Runtime telemetry inspection infrastructure
 - SHA-256 execution integrity verification
 - Environment reconstruction support
-- Reproducibility-oriented research artifact generation
-- Transparent computational provenance preservation
-- Publication-ready validation reporting
+- Computational provenance preservation
+- Audit-ready validation reporting
+- Reproducibility-oriented artifact generation
+- Long-term research traceability support
 
 ---
 
@@ -106,19 +90,19 @@ Existing analytical workflows frequently emphasize model development while provi
 
 ## Computational Reproducibility
 
-Computational reproducibility has emerged as a central principle in modern scientific research, emphasizing transparency, auditability, and independent verification of analytical workflows.
+Computational reproducibility has emerged as a central principle in modern scientific research, emphasizing transparency, auditability, repeatability, and independent verification of analytical workflows.
 
 ## Scientific Data Harmonization
 
-Cross-domain analytical studies require systematic harmonization of heterogeneous datasets to ensure consistency, comparability, and methodological rigor.
+Cross-domain analytical investigations require systematic harmonization of heterogeneous datasets to ensure consistency, comparability, interoperability, and methodological rigor.
 
 ## Statistical Validation Frameworks
 
-Monte Carlo simulation, bootstrap resampling, and robustness analysis are widely adopted techniques for evaluating uncertainty, stability, and reliability of analytical findings.
+Monte Carlo simulation, bootstrap resampling, sensitivity analysis, and robustness assessment techniques are widely used to evaluate uncertainty, stability, and reliability of analytical findings.
 
 ## Computational Governance
 
-Computational governance frameworks focus on transparency, accountability, traceability, and integrity preservation throughout the research lifecycle.
+Computational governance frameworks emphasize transparency, accountability, traceability, auditability, and integrity preservation throughout the research lifecycle.
 
 ---
 
@@ -127,24 +111,19 @@ Computational governance frameworks focus on transparency, accountability, trace
 ## Data Sources
 
 ### Human Development Indicators
-
-Source: United Nations Development Programme (UNDP)
+**Source:** United Nations Development Programme (UNDP)
 
 ### Innovation Indicators
-
-Source: World Intellectual Property Organization (WIPO)
+**Source:** World Intellectual Property Organization (WIPO)
 
 ### ICT Indicators
-
-Source: International Telecommunication Union (ITU)
+**Source:** International Telecommunication Union (ITU)
 
 ### Electricity Generation Data
-
-Source: Ember Global Electricity Database
+**Source:** Ember Global Electricity Database
 
 ### Carbon Emissions Data
-
-Source: Global CO₂ Emissions Repository
+**Source:** Global CO₂ Emissions Repository
 
 ---
 
@@ -160,6 +139,8 @@ The harmonization workflow included:
 - Integrity validation
 - Missing-value inspection
 - Schema reconciliation
+- Cross-source consistency verification
+- Computational provenance tracking
 
 ---
 
@@ -167,12 +148,14 @@ The harmonization workflow included:
 
 Validation procedures included:
 
-- SHA-256 hashing
-- File inventory generation
-- Structure inspection
+- SHA-256 cryptographic hashing
+- Dataset inventory generation
+- Structural inspection
 - Coverage analysis
 - Merge validation
 - Provenance tracking
+- Artifact verification
+- Reproducibility checks
 
 ---
 
@@ -186,7 +169,7 @@ Validation procedures included:
 
 ### Composite Nexus Score
 
-A composite analytical score was generated to evaluate multidimensional interactions among development, innovation, energy, and environmental variables.
+A composite analytical score was generated to evaluate multidimensional interactions among development, innovation, energy, environmental, and digital infrastructure indicators.
 
 ### Monte Carlo Validation
 
@@ -194,55 +177,130 @@ Repeated stochastic simulations were performed to evaluate robustness and sensit
 
 ### Bootstrap Validation
 
-Bootstrap resampling procedures were implemented to estimate empirical confidence and stability characteristics.
+Bootstrap resampling procedures were implemented to estimate empirical confidence intervals and stability characteristics.
 
 ---
 
 # 4. Results
 
-## Dataset Inventory
+## Publication Dataset Statistics
 
 | Metric | Value |
 |----------|---------:|
-| Records | 260 |
+| Harmonized Records | 260 |
+| Countries and Territories | 259 |
 | Variables | 14 |
-| Unique Countries | 259 |
+| Reference Year | 2023 |
 | Duplicate Country-Year Records | 0 |
+| Monte Carlo Iterations | 1000 |
+| Bootstrap Iterations | 1000 |
+| Runtime | 0.1427 Seconds |
+| Generated Validation Artifacts | 18 |
+
+---
+
+## PCA Results
+
+Principal Component Analysis explained variance characteristics are presented in **Figure 1** and **Table 2**.
+
+### Associated Outputs
+
+- Figure01_PCA_ExplainedVariance
+- Table2_PCA
+
+---
+
+## TOPSIS Results
+
+Distributional characteristics and ranking outcomes are presented in **Figure 2** and **Figure 3**.
+
+### Associated Outputs
+
+- Figure02_TOPSIS_Distribution
+- Figure03_TOP20_Ranking
+
+---
+
+## XGBoost Feature Importance Results
+
+Feature importance analysis is presented in **Figure 4** and **Table 4**.
+
+### Associated Outputs
+
+- Figure04_XGBoost_Importance
+- Table4_XGBoost
+
+---
+
+## Monte Carlo Robustness Results
+
+Simulation distributions are presented in **Figure 5** and **Table 5**.
+
+### Associated Outputs
+
+- Figure05_MonteCarlo_Distribution
+- Table5_MonteCarlo
+
+---
+
+## Bootstrap Validation Results
+
+Bootstrap validation outcomes are presented in **Figure 6** and **Table 6**.
+
+### Associated Outputs
+
+- Figure06_Bootstrap_Distribution
+- Table6_Bootstrap
+
+---
+
+## Sensitivity Analysis Results
+
+Sensitivity assessment outcomes are presented in **Figure 7** and **Table 7**.
+
+### Associated Outputs
+
+- Figure07_Sensitivity_Curve
+- Table7_Sensitivity
+
+---
+
+## Correlation Structure
+
+The cross-variable correlation structure is visualized in **Figure 8**.
+
+### Associated Outputs
+
+- Figure08_Correlation_Heatmap
 
 ---
 
 ## Generated Analytical Outputs
 
-```text
-correlation_matrix.csv
-hdi_vs_co2_analysis.csv
-hdi_vs_innovation_analysis.csv
-innovation_vs_electricity_analysis.csv
-composite_nexus_scores.csv
-```
+- correlation_matrix.csv
+- hdi_vs_co2_analysis.csv
+- hdi_vs_innovation_analysis.csv
+- innovation_vs_electricity_analysis.csv
+- composite_nexus_scores.csv
 
 ---
 
 ## Validation Outputs
 
-```text
-monte_carlo_results.csv
-bootstrap_validation.csv
-runtime_telemetry.csv
-execution_hashes.csv
-environment_manifest.json
-```
+- monte_carlo_results.csv
+- bootstrap_validation.csv
+- runtime_telemetry.csv
+- execution_hashes.csv
+- environment_manifest.json
 
 ---
 
 ## Harmonized Dataset Outputs
 
-```text
-global_harmonized_dataset_v2.csv
-country_coverage_report.csv
-merge_validation_report_v2.csv
-research_metadata_v2.json
-```
+- global_harmonized_dataset_v2.csv
+- country_coverage_report.csv
+- merge_validation_report_v2.csv
+- research_metadata_v2.json
 
 ---
 
@@ -250,19 +308,19 @@ research_metadata_v2.json
 
 ## Interpretation
 
-The framework demonstrates a structured methodology for integrating diverse global datasets into a unified analytical infrastructure while preserving reproducibility and computational transparency.
+The framework demonstrates a structured methodology for integrating diverse international datasets into a unified analytical infrastructure while preserving reproducibility, transparency, auditability, and computational integrity.
 
 ## Policy Implications
 
-The harmonized dataset provides a foundation for comparative analysis of development, innovation capacity, energy systems, and environmental performance across countries.
+The harmonized dataset provides a robust foundation for comparative analysis of development, innovation capacity, energy systems, environmental sustainability, and digital infrastructure performance across countries and territories.
 
 ## Computational Implications
 
-The validation architecture supports reproducible analytics through deterministic execution, statistical verification, telemetry inspection, and integrity-preserving workflows.
+The validation architecture supports reproducible analytics through deterministic execution, statistical verification, telemetry inspection, provenance preservation, and integrity-preserving workflows.
 
 ## Limitations
 
-The analytical scope is constrained by source-data availability, reporting standards, temporal alignment, and variable coverage across participating datasets.
+The analytical scope remains constrained by source-data availability, reporting standards, temporal alignment, indicator coverage, and cross-source comparability considerations.
 
 ---
 
@@ -274,11 +332,11 @@ Controlled execution environments support repeatable analytical outcomes.
 
 ## Environment Reconstruction
 
-Environment manifests preserve computational configuration metadata required for reconstruction.
+Environment manifests preserve computational configuration metadata required for environment recreation.
 
 ## Runtime Telemetry
 
-Execution telemetry enables transparency and performance inspection.
+Execution telemetry enables transparency, diagnostics, and performance inspection.
 
 ## Integrity Verification
 
@@ -286,14 +344,14 @@ Cryptographic hashing supports immutable computational lineage tracking.
 
 ## Computational Auditability
 
-Generated validation artifacts support independent inspection and verification.
+Generated validation artifacts support independent inspection, verification, and reproducibility assessment.
 
 ---
 
 # 7. Validation Status
 
 | Validation Layer | Status |
-|------------------|----------|
+|------------------|---------|
 | Dataset Inventory Validation | Verified |
 | Dataset Structure Validation | Verified |
 | Harmonization Validation | Verified |
@@ -310,20 +368,16 @@ Generated validation artifacts support independent inspection and verification.
 
 # 8. Reproducibility Artifacts
 
-```text
-dataset_inventory.csv
-dataset_structure_report.csv
-country_coverage_report.csv
-merge_validation_report_v2.csv
-research_metadata_v2.json
-
-runtime_telemetry.csv
-execution_hashes.csv
-environment_manifest.json
-
-monte_carlo_results.csv
-bootstrap_validation.csv
-```
+- dataset_inventory.csv
+- dataset_structure_report.csv
+- country_coverage_report.csv
+- merge_validation_report_v2.csv
+- research_metadata_v2.json
+- runtime_telemetry.csv
+- execution_hashes.csv
+- environment_manifest.json
+- monte_carlo_results.csv
+- bootstrap_validation.csv
 
 ---
 
@@ -380,13 +434,13 @@ The framework contributes to research domains involving:
 
 # 12. Data Availability
 
-All generated datasets, validation artifacts, reproducibility records, integrity manifests, and supporting documentation are contained within the repository release package.
+All generated datasets, validation artifacts, reproducibility records, integrity manifests, figure packages, table packages, and supporting documentation are contained within the repository release package.
 
 ---
 
 # 13. Code Availability
 
-Source code, validation workflows, harmonization procedures, and computational reproducibility infrastructure are available within the repository.
+Source code, validation workflows, harmonization procedures, computational infrastructure, and reproducibility components are available within the repository.
 
 ---
 
@@ -398,7 +452,7 @@ No competing interests declared.
 
 # 15. Acknowledgements
 
-The framework utilizes publicly available international datasets contributed by global research, statistical, innovation, development, telecommunications, and energy organizations.
+The framework utilizes publicly available international datasets contributed by global development, innovation, telecommunications, environmental, statistical, and energy organizations.
 
 ---
 
@@ -412,6 +466,7 @@ The framework utilizes publicly available international datasets contributed by 
 - Advanced telemetry analytics
 - Automated provenance auditing
 - Scalable computational governance architectures
+- Quantum-aware validation layers
 
 ---
 
@@ -435,26 +490,47 @@ The framework utilizes publicly available international datasets contributed by 
 
 See:
 
-```text
-LICENSE.md
-```
+`LICENSE.md`
 
 for complete licensing information.
 
 ---
 
-<div align="center">
+# Figures Included
 
-## QAI-NEXUS-PROOF™
+1. Figure01_PCA_ExplainedVariance
+2. Figure02_TOPSIS_Distribution
+3. Figure03_TOP20_Ranking
+4. Figure04_XGBoost_Importance
+5. Figure05_MonteCarlo_Distribution
+6. Figure06_Bootstrap_Distribution
+7. Figure07_Sensitivity_Curve
+8. Figure08_Correlation_Heatmap
+9. Graphical_Abstract
 
-### Reproducible Computational Validation Framework
+---
 
-Canonical DOI: https://doi.org/10.5281/zenodo.19188944
+# Tables Included
 
-Latest DOI: https://doi.org/10.5281/zenodo.20345444
+1. Table2_PCA
+2. Table4_XGBoost
+3. Table5_MonteCarlo
+4. Table6_Bootstrap
+5. Table7_Sensitivity
 
-ORCID: https://orcid.org/0009-0007-5615-3558
+---
+
+# QAI-NEXUS-PROOF™
+
+## Reproducible Computational Validation Framework
+
+### Canonical DOI
+https://doi.org/10.5281/zenodo.19188944
+
+### Latest DOI
+https://doi.org/10.5281/zenodo.20345444
+
+### ORCID
+https://orcid.org/0009-0007-5615-3558
 
 © 2026 Dr. B. Mazumdar
-
-</div>
