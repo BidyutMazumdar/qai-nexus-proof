@@ -1,0 +1,13 @@
+{
+  "dataset": "global_harmonized_dataset_v2",
+  "year": 2023,
+  "created_utc": "2026-06-13 06:59:04.434075+00:00",
+  "sources": [
+    "UNDP HDR25",
+    "Our World in Data CO2",
+    "WIPO GII",
+    "Ember Electricity"
+  ],
+  "rows": 260,
+  "columns": 14
+}
