@@ -1,148 +1,112 @@
-# ====================================================================================================
-# CITATION.cff
-# FAIR+D Canon™ / QAI-NEXUS-PROOF™
-# CONSTITUTIONAL SOVEREIGN COMPUTATIONAL GOVERNANCE &
-# REPRODUCIBILITY VALIDATION INFRASTRUCTURE
-# VERSION 2 — ARCHIVAL • PUBLICATION • REPRODUCIBILITY EDITION
-# ====================================================================================================
-
 cff-version: 1.2.0
 
-message: >
-  If you use, reference, validate, reproduce, benchmark, analyze,
-  compare, audit, or build upon FAIR+D Canon™ or QAI-NEXUS-PROOF™
-  infrastructures, deterministic validation systems, sovereign
-  orchestration architectures, reproducibility pipelines,
-  computational governance frameworks, or benchmark ecosystems,
-  please cite the canonical FAIR+D Canon™ DOI architecture.
+title: "SAIIS (VGX)"
 
-title: >
-  QAI-NEXUS-PROOF™:
-  Reproducible Computational Validation Framework
+message: >
+  If you use, cite, reference, evaluate, reproduce, archive,
+  validate, benchmark, or discuss this work, please cite the
+  record using the metadata provided below.
 
 type: software
 
 authors:
   - family-names: "Mazumdar"
     given-names: "Bidyut"
-    name-particle: "Dr."
-    affiliation: "Independent Researcher-Scholar"
     orcid: "https://orcid.org/0009-0007-5615-3558"
-
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.19188944"
-    description: "Canonical FAIR+D Canon™ DOI Record"
-
-  - type: doi
-    value: "10.5281/zenodo.20345444"
-    description: "FAIR+D Canon™ Version 2 DOI Record"
 
 repository-code: "https://github.com/BidyutMazumdar/qai-nexus-proof"
 
 url: "https://github.com/BidyutMazumdar/qai-nexus-proof"
 
+doi: "10.5281/zenodo.20345444"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19188944"
+    description: "Canonical DOI (All Versions)"
+
+  - type: doi
+    value: "10.5281/zenodo.20345444"
+    description: "Latest Published Version DOI"
+
+version: "VXØ"
+
+date-released: "2026-06-13"
+
+license: "CC-BY-NC-ND-4.0"
+
 abstract: >
-  QAI-NEXUS-PROOF™ is a publication-grade reproducible computational
-  validation and deterministic execution infrastructure developed under
-  the FAIR+D Canon™ sovereign governance ecosystem.
+  SAIIS (VGX) is a repository-ready research archive and
+  reproducible computational research package containing
+  datasets, analytical outputs, documentation, metadata
+  records, reproducibility assets, publication resources,
+  visualization assets, validation materials, and archival
+  documentation associated with the QAI NEXUS analytical
+  framework.
 
-  The framework integrates deterministic replay validation,
-  Monte Carlo simulation architectures, bootstrap statistical
-  verification, runtime telemetry infrastructures,
-  cryptographic execution integrity validation,
-  execution lineage preservation,
-  sovereign computational auditability,
-  reproducibility governance systems,
-  and publication-grade computational verification workflows.
+  The archive was generated through structured consolidation,
+  reconciliation, validation, deduplication, integrity
+  verification, provenance review, and publication-readiness
+  auditing of multiple archival and submission packages.
 
-  The repository establishes transparent, reproducible,
-  auditable, statistically verifiable,
-  integrity-preserving computational infrastructures suitable for:
-
-  • sovereign computational governance research
-  • AI governance experimentation
-  • reproducible systems engineering
-  • computational validation science
-  • deterministic execution analysis
-  • scientific auditability infrastructures
-  • high-integrity validation ecosystems
-  • constitutional computational architecture research
+  The resulting canonical release supports scholarly
+  dissemination, repository preservation, reproducibility
+  assessment, institutional deposit, DOI-linked research
+  distribution, transparency, and long-term archival
+  accessibility.
 
 keywords:
-  - FAIR+D Canon
-  - QAI-NEXUS-PROOF
-  - reproducibility
-  - deterministic execution
-  - computational governance
-  - sovereign infrastructure
-  - scientific reproducibility
-  - Monte Carlo validation
-  - bootstrap validation
-  - runtime telemetry
-  - execution integrity
-  - distributed systems
-  - reproducible research
-  - AI governance
-  - computational auditability
-  - orchestration systems
-  - sovereign AI
-  - validation framework
-  - infrastructure validation
-  - constitutional systems engineering
-
-license: "LicenseRef-FAIRD-License-v1"
-
-version: "2.1"
-
-date-released: "2026-05-24"
+  - SAIIS
+  - VGX
+  - Sovereign AI Systems
+  - AI Governance
+  - Infrastructure Intelligence
+  - Computational Governance
+  - Digital Sovereignty
+  - Research Infrastructure
+  - Reproducible Research
+  - Infrastructure Analytics
+  - Benchmarking Systems
+  - Data Governance
+  - Scientific Data Archive
+  - Open Science
+  - FAIR Data
+  - Computational Research
+  - Metadata Management
+  - Infrastructure Governance
+  - Infrastructure Intelligence Systems
+  - Autonomous Infrastructure Intelligence
 
 preferred-citation:
-  type: software
+  type: article
 
   authors:
     - family-names: "Mazumdar"
       given-names: "Bidyut"
-      name-particle: "Dr."
       orcid: "https://orcid.org/0009-0007-5615-3558"
 
-  title: >
-    FAIR+D Canon™ / QAI-NEXUS-PROOF™:
-    Constitutional Sovereign Computational Validation
-    & Reproducibility Infrastructure
-
-  version: "2.1"
-
-  doi: "10.5281/zenodo.20345444"
-
-  url: "https://doi.org/10.5281/zenodo.20345444"
+  title: "SAIIS (VGX) (VXØ)"
 
   publisher: "Zenodo"
+
+  doi: "10.5281/zenodo.20345444"
 
   year: 2026
 
 references:
   - type: software
-    title: "Canonical FAIR+D Canon™ DOI Record"
+    title: "SAIIS (VGX) Canonical DOI"
     doi: "10.5281/zenodo.19188944"
 
   - type: software
-    title: "FAIR+D Canon™ Version 2 DOI Record"
+    title: "SAIIS (VGX) Latest Published Version"
     doi: "10.5281/zenodo.20345444"
 
-# ====================================================================================================
-# FAIR+D Canon™
-# CONSTITUTIONAL SOVEREIGN COMPUTATIONAL GOVERNANCE INFRASTRUCTURE
-#
-# © 2026 Dr. B. Mazumdar
-# ALL RIGHTS RESERVED
-#
-# CANONICAL DOI:
-# 10.5281/zenodo.19188944
-#
-# VERSION DOI:
-# 10.5281/zenodo.20345444
-#
-# ORCID:
-# https://orcid.org/0009-0007-5615-3558
-# ====================================================================================================
+  - type: software
+    title: "Related Framework Record"
+    doi: "10.5281/zenodo.19188945"
+
+contact:
+  - family-names: "Mazumdar"
+    given-names: "Bidyut"
+    orcid: "https://orcid.org/0009-0007-5615-3558"
