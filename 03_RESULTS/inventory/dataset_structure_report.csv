@@ -1,0 +1,15 @@
+file,type,rows,columns,missing_values,sheet_name,error,sheet
+ember_yearly_electricity-generation - All electricity sources - World - breakdown.csv,CSV,260.0,13.0,300.0,N/A,,
+HDR25_Composite_indices_complete_time_series.csv,,,,,,'utf-8' codec can't decode byte 0xf4 in position 190854: invalid continuation byte,
+HDR25_Composite_indices_metadata.xlsx,XLSX,50.0,3.0,12.0,,,codebook
+HDR25_Composite_indices_metadata.xlsx,XLSX,1.0,1.0,0.0,,,recommended_citation
+HDR25_Statistical_Annex_HDI_Table.xlsx,XLSX,278.0,15.0,1976.0,,,Table 1. HDI
+ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2025.xlsx,XLSX,157.0,44.0,3940.0,,,By dvpmnt status and spec. reg.
+ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2025.xlsx,XLSX,131.0,44.0,2918.0,,,By BDT region
+ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2025.xlsx,XLSX,114.0,36.0,1910.0,,,By urban-rural area
+ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2025.xlsx,XLSX,55.0,24.0,745.0,,,By gender
+ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2025.xlsx,XLSX,32.0,15.0,260.0,,,Internet use by age
+wipo-pub-2000-2025-gii-tech1.xlsx,XLSX,109.0,8.0,97.0,,,Index Structure
+wipo-pub-2000-2025-gii-tech1.xlsx,XLSX,139.0,8.0,5.0,,,Economies
+wipo-pub-2000-2025-gii-tech1.xlsx,XLSX,15151.0,12.0,65352.0,,,Data
+wipo-pub-2000-2025-gii-tech1.xlsx,XLSX,28.0,3.0,0.0,,,Metadata
