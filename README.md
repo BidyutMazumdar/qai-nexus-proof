@@ -1,7 +1,11 @@
-# QAI-NEXUS-PROOF™  
-## Quantum-AI Energy Synchronization Nexus — Reproducible Computational Validation Framework
-
 <div align="center">
+
+# QAI-NEXUS-PROOF™
+
+### Quantum-AI Energy Synchronization Nexus
+### Reproducible Computational Validation Framework
+
+Reproducible computational infrastructure for deterministic execution verification, harmonized data integration, statistical robustness assessment, telemetry inspection, cryptographic integrity validation, and publication-grade research reproducibility.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Research](https://img.shields.io/badge/Research-Computational%20Validation-success.svg)
@@ -13,56 +17,66 @@
 ![License](https://img.shields.io/badge/License-Research%20Protected-darkred.svg)
 ![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20345444-informational.svg)
 
-### Sovereign Computational Reproducibility & Validation Infrastructure
-
----
-
-### DOI References
-
-**Canonical DOI**  
-https://doi.org/10.5281/zenodo.19188944
-
-**Latest DOI**  
-https://doi.org/10.5281/zenodo.20345444
-
-### ORCID
-
-https://orcid.org/0009-0007-5615-3558
-
 </div>
 
 ---
 
-# Overview
+# DOI References
 
-QAI-NEXUS-PROOF™ is a publication-grade computational validation and reproducibility framework developed for deterministic execution verification, simulation stability analysis, runtime telemetry inspection, and integrity-preserving computational governance systems.
+| Identifier | Reference |
+|------------|------------|
+| Canonical DOI | https://doi.org/10.5281/zenodo.19188944 |
+| Latest DOI | https://doi.org/10.5281/zenodo.20345444 |
+| ORCID | https://orcid.org/0009-0007-5615-3558 |
 
-The repository establishes a transparent, auditable, and reproducible infrastructure for validating Quantum-AI synchronization workflows using deterministic replay systems, Monte Carlo simulation pipelines, bootstrap statistical analysis, cryptographic execution verification, and environment reconstruction mechanisms.
+---
 
-The framework has been designed according to international computational reproducibility principles suitable for:
+# Abstract
 
-- Advanced AI systems research
-- Scientific reproducibility engineering
-- Sovereign computational governance
-- Quantum-AI synchronization experimentation
-- Institutional validation infrastructures
-- Statistical robustness verification
-- High-integrity computational systems
-- Audit-ready scientific publication
+QAI-NEXUS-PROOF™ is a reproducible computational validation framework designed for deterministic execution control, harmonized data integration, statistical robustness assessment, runtime telemetry inspection, cryptographic integrity verification, and evidence-based analytical reproducibility.
+
+The framework establishes a transparent computational environment for integrating multidomain research datasets and generating validation-ready analytical artifacts suitable for scientific reproducibility, computational governance, research traceability, and long-term archival preservation.
+
+The validated workflow integrates human development, innovation, environmental sustainability, electricity generation, and digital infrastructure indicators into a harmonized analytical dataset while maintaining reproducibility, auditability, and computational integrity throughout the execution lifecycle.
+
+Core framework capabilities include:
+
+- Deterministic execution verification
+- Reproducible dataset harmonization
+- Statistical robustness assessment
+- Monte Carlo simulation validation
+- Bootstrap confidence validation
+- Runtime telemetry inspection
+- SHA-256 integrity verification
+- Environment reconstruction
+- Computational traceability
+- Research metadata generation
+- Audit-ready validation workflows
+
+---
+
+# DOI and Research Identity
+
+| Item | Value |
+|--------|--------|
+| Canonical DOI | https://doi.org/10.5281/zenodo.19188944 |
+| Latest DOI | https://doi.org/10.5281/zenodo.20345444 |
+| ORCID | https://orcid.org/0009-0007-5615-3558 |
 
 ---
 
 # Research Objectives
 
 | Objective | Description |
-|---|---|
-| Deterministic Execution | Validate invariant execution outputs under controlled environments |
-| Statistical Robustness | Assess stochastic reliability through repeated simulations |
-| Runtime Transparency | Monitor execution telemetry and system behavior |
-| Integrity Verification | Ensure immutable computational lineage via hash validation |
-| Environment Reconstruction | Reproduce identical runtime ecosystems |
-| Scientific Auditability | Support transparent and inspectable workflows |
-| Computational Governance | Enable explainable and reproducible validation infrastructures |
+|------------|-------------|
+| Deterministic Execution | Validate invariant computational outputs under controlled execution environments |
+| Reproducibility | Enable independent reconstruction of computational workflows |
+| Statistical Robustness | Evaluate analytical stability through simulation-based validation |
+| Runtime Transparency | Monitor execution characteristics through telemetry inspection |
+| Integrity Verification | Preserve computational lineage through cryptographic validation |
+| Environment Reconstruction | Capture execution metadata for reproducible deployment |
+| Computational Auditability | Support transparent validation and inspection procedures |
+| Data Harmonization | Integrate heterogeneous research datasets into a unified analytical framework |
 
 ---
 
@@ -71,15 +85,26 @@ The framework has been designed according to international computational reprodu
 ```text
 qai-nexus-proof/
 │
+├── 01_MANUSCRIPT/
+├── 02_DATA/
+├── 03_RESULTS/
+├── 04_FIGURES/
+├── 05_TABLES/
+├── 06_SUPPLEMENTARY/
+├── 07_REPRODUCIBILITY/
+├── 08_DOCUMENTATION/
+├── 09_IP/
+├── 10_RELEASE/
+│
 ├── core/
-│   ├── execution_engine.py
 │   ├── validation_pipeline.py
+│   ├── deterministic_runtime.py
 │   ├── integrity_verifier.py
-│   └── deterministic_runtime.py
+│   └── execution_engine.py
 │
 ├── simulation/
 │   ├── monte_carlo/
-│   ├── stochastic_models/
+│   ├── bootstrap/
 │   ├── replay_engine/
 │   └── robustness_analysis/
 │
@@ -90,18 +115,11 @@ qai-nexus-proof/
 │   └── validation/
 │
 ├── results/
-│   ├── statistical_outputs/
-│   ├── deterministic_reports/
+│   ├── analytics/
 │   ├── telemetry/
-│   └── integrity_logs/
+│   ├── integrity/
+│   └── validation/
 │
-├── benchmark_results.csv
-├── bootstrap_validation.csv
-├── deterministic_replay_validation.csv
-├── execution_hashes.csv
-├── monte_carlo_results.csv
-├── runtime_telemetry.csv
-├── environment_manifest.json
 ├── requirements.txt
 ├── LICENSE.md
 └── README.md
@@ -109,43 +127,195 @@ qai-nexus-proof/
 
 ---
 
-# Computational Validation Components
+# Research Data Sources
 
-## 1. Deterministic Replay Validation
+| Dataset | Organization | Domain |
+|----------|-------------|----------|
+| HDR25 Human Development Report | UNDP | Human Development |
+| Global Innovation Index | WIPO | Innovation |
+| ICT Indicator Aggregates | ITU | Digital Infrastructure |
+| Global Electricity Generation Dataset | Ember | Energy Systems |
+| CO₂ Emissions Per Capita Dataset | Our World in Data | Environmental Indicators |
 
-The deterministic replay validation system verifies whether identical computational environments generate invariant execution outputs across repeated runs.
+---
 
-### Core Capabilities
+# Publication Dataset Statistics
 
-- Seed-controlled execution
-- Replay synchronization
-- Deterministic consistency verification
-- Runtime drift analysis
-- Reproducible execution assurance
-- Cross-environment validation
+| Metric | Value |
+|----------|---------:|
+| Harmonized Records | 260 |
+| Unique Countries and Territories | 259 |
+| Variables | 14 |
+| Reference Year | 2023 |
+| Duplicate Country-Year Records | 0 |
+| Monte Carlo Iterations | 1000 |
+| Bootstrap Iterations | 1000 |
+| Runtime | 0.1427 Seconds |
+| Generated Validation Artifacts | 18 |
 
-### Validation Artifact
+---
+
+# Harmonized Research Outputs
+
+## Core Research Dataset
 
 ```text
-deterministic_replay_validation.csv
+global_harmonized_dataset_v2.csv
+```
+
+## Supporting Validation Files
+
+```text
+country_coverage_report.csv
+merge_validation_report_v2.csv
+research_metadata_v2.json
+dataset_inventory.csv
+dataset_structure_report.csv
+wipo_country_2023.csv
+wipo_country_record_counts.csv
 ```
 
 ---
 
-## 2. Monte Carlo Robustness Analysis
+# Computational Validation Components
 
-The Monte Carlo subsystem evaluates probabilistic stability and stochastic robustness under randomized perturbation scenarios.
+## 1. Dataset Inventory Validation
 
-### Simulation Features
+Purpose:
 
-- Probabilistic iteration analysis
-- Sensitivity assessment
-- Variance estimation
-- Confidence interval computation
-- Stability benchmarking
-- Simulation resilience testing
+- Dataset discovery
+- File verification
+- Inventory generation
+- Source traceability
 
-### Validation Artifact
+Output:
+
+```text
+dataset_inventory.csv
+```
+
+---
+
+## 2. Dataset Structure Validation
+
+Purpose:
+
+- Schema inspection
+- Variable discovery
+- Structural verification
+- Missing-value assessment
+
+Output:
+
+```text
+dataset_structure_report.csv
+```
+
+---
+
+## 3. Global Harmonization Pipeline
+
+Purpose:
+
+- Country-level integration
+- Cross-source harmonization
+- Temporal alignment
+- Publication-grade dataset construction
+
+Outputs:
+
+```text
+global_harmonized_dataset_v2.csv
+country_coverage_report.csv
+merge_validation_report_v2.csv
+research_metadata_v2.json
+```
+
+---
+
+## 4. Correlation Analysis
+
+Purpose:
+
+- Multivariate relationship assessment
+- Dependency evaluation
+- Statistical association analysis
+
+Output:
+
+```text
+correlation_matrix.csv
+```
+
+---
+
+## 5. HDI–CO₂ Analysis
+
+Purpose:
+
+- Human development assessment
+- Environmental sustainability analysis
+
+Output:
+
+```text
+hdi_vs_co2_analysis.csv
+```
+
+---
+
+## 6. HDI–Innovation Analysis
+
+Purpose:
+
+- Development–innovation relationship evaluation
+
+Output:
+
+```text
+hdi_vs_innovation_analysis.csv
+```
+
+---
+
+## 7. Innovation–Electricity Analysis
+
+Purpose:
+
+- Innovation and energy system interaction assessment
+
+Output:
+
+```text
+innovation_vs_electricity_analysis.csv
+```
+
+---
+
+## 8. Composite Nexus Score Construction
+
+Purpose:
+
+- Integrated multidimensional assessment
+- Harmonized nexus index generation
+
+Output:
+
+```text
+composite_nexus_scores.csv
+```
+
+---
+
+## 9. Monte Carlo Robustness Testing
+
+Configuration:
+
+```text
+Iterations: 1000
+```
+
+Output:
 
 ```text
 monte_carlo_results.csv
@@ -153,20 +323,15 @@ monte_carlo_results.csv
 
 ---
 
-## 3. Bootstrap Statistical Validation
+## 10. Bootstrap Confidence Validation
 
-Bootstrap statistical validation measures empirical reliability through repeated resampling experiments.
+Configuration:
 
-### Statistical Features
+```text
+Iterations: 1000
+```
 
-- Resampling inference
-- Confidence estimation
-- Distribution consistency checks
-- Statistical repeatability analysis
-- Robustness estimation
-- Empirical variance evaluation
-
-### Validation Artifact
+Output:
 
 ```text
 bootstrap_validation.csv
@@ -174,20 +339,15 @@ bootstrap_validation.csv
 
 ---
 
-## 4. Runtime Telemetry Infrastructure
+## 11. Runtime Telemetry Logging
 
-The runtime telemetry subsystem tracks computational metrics during execution for transparency, diagnostics, and auditability.
+Purpose:
 
-### Telemetry Metrics
+- Execution monitoring
+- Runtime diagnostics
+- Computational traceability
 
-- Runtime duration
-- CPU utilization
-- Memory allocation
-- Throughput analysis
-- Latency monitoring
-- Execution stability metrics
-
-### Validation Artifact
+Output:
 
 ```text
 runtime_telemetry.csv
@@ -195,20 +355,15 @@ runtime_telemetry.csv
 
 ---
 
-## 5. Cryptographic Execution Integrity
+## 12. Cryptographic Integrity Verification
 
-Execution integrity verification ensures immutable computational lineage using cryptographic fingerprinting techniques.
+Verification Standard:
 
-### Integrity Features
+```text
+SHA-256
+```
 
-- SHA-256 execution signatures
-- Artifact fingerprint verification
-- Immutable execution tracking
-- Integrity-preserving validation
-- Reproducibility authentication
-- Audit-chain consistency
-
-### Validation Artifact
+Output:
 
 ```text
 execution_hashes.csv
@@ -216,135 +371,219 @@ execution_hashes.csv
 
 ---
 
-# Environment Reproducibility
+## 13. Environment Reconstruction
 
-The repository includes a complete computational environment manifest for deterministic reconstruction and reproducible deployment.
+Purpose:
 
-### Environment Manifest
+- Environment preservation
+- Deployment reproducibility
+- Execution reconstruction
+
+Output:
 
 ```text
 environment_manifest.json
 ```
 
-### Captured Metadata
-
-- Python version
-- Dependency versions
-- Runtime platform
-- Operating system metadata
-- Execution timestamps
-- Computational fingerprints
-- Environment reconstruction parameters
-
 ---
 
-# Installation
+# Reproducibility Workflow
 
-## Clone Repository
+## Installation
 
 ```bash
 git clone https://github.com/BidyutMazumdar/qai-nexus-proof.git
-```
 
-## Navigate to Repository
-
-```bash
 cd qai-nexus-proof
-```
 
-## Install Dependencies
-
-```bash
 pip install -r requirements.txt
 ```
 
----
-
-# Reproducible Execution Workflow
-
-## Execute Validation Pipeline
+## Execution
 
 ```bash
 python core/validation_pipeline.py
-```
 
-## Execute Deterministic Replay Validation
-
-```bash
 python core/deterministic_runtime.py
-```
 
-## Execute Monte Carlo Simulation
-
-```bash
-python simulation/monte_carlo/run_monte_carlo.py
-```
-
-## Execute Integrity Verification
-
-```bash
 python core/integrity_verifier.py
 ```
 
 ---
 
-# Scientific Reproducibility Standards
+# Validation Results Summary
 
-This repository follows internationally recognized computational reproducibility and scientific transparency principles including:
+| Validation Layer | Status |
+|------------------|---------|
+| Dataset Inventory Validation | Verified |
+| Dataset Structure Validation | Verified |
+| Country-Level Harmonization | Verified |
+| Country-Year Deduplication | Verified |
+| Correlation Analysis | Verified |
+| HDI–CO₂ Analysis | Verified |
+| HDI–Innovation Analysis | Verified |
+| Innovation–Electricity Analysis | Verified |
+| Composite Nexus Score Construction | Verified |
+| Monte Carlo Robustness Testing | Verified |
+| Bootstrap Confidence Validation | Verified |
+| Runtime Telemetry Logging | Verified |
+| SHA-256 Integrity Verification | Verified |
+| Environment Manifest Generation | Verified |
 
-- Deterministic execution control
-- Transparent validation workflows
-- Statistical verification rigor
-- Environment preservation
+---
+
+# Scientific Standards
+
+The framework follows internationally recognized computational reproducibility and scientific transparency principles:
+
+- Deterministic execution
+- Reproducible computation
+- Statistical verification
+- Computational auditability
+- Runtime transparency
+- Data provenance preservation
 - Integrity-preserving computation
-- Open reproducibility standards
-- Audit-ready computational architecture
+- Environment reconstruction
+- Computational traceability
+- Research artifact preservation
+
+---
+
+# Data Provenance
+
+| Dataset | Organization | Coverage |
+|----------|-------------|------------|
+| Human Development Index | UNDP | Human Development |
+| Global Innovation Index | WIPO | Innovation |
+| ICT Indicators | ITU | Digital Infrastructure |
+| Electricity Generation Dataset | Ember | Energy Systems |
+| CO₂ Emissions Per Capita | Our World in Data | Environmental Indicators |
+
+---
+
+# Integrity Verification Evidence
+
+Generated Artifact:
+
+```text
+execution_hashes.csv
+```
+
+Verification Method:
+
+```text
+SHA-256 Cryptographic Hashing
+```
+
+Verification Scope:
+
+- Artifact authenticity
+- Computational lineage preservation
+- Reproducibility assurance
+- Integrity validation
+
+---
+
+# Computational Environment
+
+Environment Manifest:
+
+```text
+environment_manifest.json
+```
+
+Captured Metadata:
+
+- Python Version
+- Dependency Versions
+- Runtime Platform
+- Operating System Metadata
+- Execution Timestamp
+- Computational Fingerprints
+- Environment Reconstruction Parameters
+
+---
+
+# Validation Package Archive
+
+Archive:
+
+```text
+QAI_NEXUS_PROOF_RESEARCH_OUTPUTS.zip
+```
+
+Artifacts Included:
+
+```text
+18
+```
+
+Package Purpose:
+
+- Reproducibility
+- Validation
+- Auditability
+- Archival Preservation
 
 ---
 
 # Research Significance
 
-QAI-NEXUS-PROOF™ contributes to emerging research domains involving:
+The framework supports research and analytical workflows involving:
 
-- Reproducible AI systems
-- Quantum-AI synchronization research
-- Scientific computational governance
-- High-integrity validation systems
-- Explainable computational infrastructures
-- Deterministic simulation engineering
-- Sovereign digital validation architectures
-
-The framework demonstrates how computational systems can remain:
-
-- Reproducible
-- Explainable
-- Auditable
-- Statistically verified
-- Integrity-preserving
-- Scientifically inspectable
+- Reproducible computational science
+- AI governance
+- Computational validation systems
+- Scientific transparency
+- Research traceability
+- Data harmonization methodologies
+- Digital research infrastructure
+- Innovation analytics
+- Development analytics
+- Energy–environment integration
+- Integrity-preserving computation
+- Computational auditability
 
 ---
 
-# Validation Status
+# Generated Research Artifacts
 
-| Validation Layer | Status |
-|---|---|
-| Deterministic Replay | Verified |
-| Monte Carlo Stability | Verified |
-| Bootstrap Validation | Verified |
-| Runtime Telemetry | Verified |
-| Integrity Verification | Verified |
-| Environment Reproducibility | Verified |
+```text
+global_harmonized_dataset_v2.csv
+country_coverage_report.csv
+merge_validation_report_v2.csv
+research_metadata_v2.json
+
+dataset_inventory.csv
+dataset_structure_report.csv
+
+wipo_country_2023.csv
+wipo_country_record_counts.csv
+
+correlation_matrix.csv
+hdi_vs_co2_analysis.csv
+hdi_vs_innovation_analysis.csv
+innovation_vs_electricity_analysis.csv
+
+composite_nexus_scores.csv
+
+monte_carlo_results.csv
+bootstrap_validation.csv
+
+runtime_telemetry.csv
+execution_hashes.csv
+environment_manifest.json
+```
 
 ---
 
-# Publication Citation
+# Citation
 
-## BibTeX Citation
+## BibTeX
 
 ```bibtex
 @software{mazumdar_qai_nexus_proof_2026,
-  author       = {Bidyut Mazumdar},
+  author       = {B. Mazumdar},
   title        = {QAI-NEXUS-PROOF: Reproducible Computational Validation Framework},
   year         = {2026},
   publisher    = {Zenodo},
@@ -357,87 +596,78 @@ The framework demonstrates how computational systems can remain:
 
 # Author
 
-## Dr. B. Mazumdar
-
+**Dr. B. Mazumdar**  
 D.Sc. (Hon.), D.Litt. (Hon.)  
-Independent Researcher-Scholar
+Independent Research Scholar
 
-### Research Domains
-
-- AI Governance
-- Computational Validation
-- Cybersecurity
-- Reproducible Systems Engineering
-- Sovereign Digital Infrastructure
-- Scientific Computational Frameworks
-
-### ORCID
+ORCID:
 
 https://orcid.org/0009-0007-5615-3558
 
 ---
 
-# Intellectual Property Notice
+# License and Intellectual Property
 
-## Research Protection and Usage Policy
-
-This repository constitutes an original computational research framework protected under intellectual property and scholarly attribution principles.
-
-### Permitted Usage
+## Permitted Usage
 
 - Academic citation
 - Educational research
-- Non-commercial scholarly reference
 - Scientific discussion
-- Reproducibility analysis
+- Reproducibility assessment
+- Non-commercial scholarly reference
 
-### Restricted Usage
+## Restricted Usage
 
 - Unauthorized commercial redistribution
-- Misrepresentation of authorship
 - Proprietary resale
+- Misrepresentation of authorship
 - Unattributed derivative publication
 - False institutional attribution
 
-Refer to:
+Reference:
 
 ```text
 LICENSE.md
 ```
 
-for complete licensing conditions.
-
 ---
 
 # Future Research Roadmap
 
-Planned future developments include:
-
 - Bayesian uncertainty propagation
-- Federated reproducibility orchestration
-- Quantum-aware validation layers
-- Cross-platform execution federation
+- Federated reproducibility systems
+- Distributed validation architectures
 - Zero-trust execution verification
-- Distributed auditability infrastructure
-- Advanced stochastic governance modeling
+- Advanced integrity auditing
+- Cross-platform reproducibility orchestration
+- Quantum-aware validation layers
 
 ---
 
 # Acknowledgment
 
-This project supports transparent scientific reproducibility, computational accountability, and high-integrity research engineering.
-
-The framework promotes rigorous computational validation standards aligned with international research reproducibility and institutional publication principles.
+This repository supports transparent computational research, reproducible scientific workflows, integrity-preserving validation methodologies, and long-term research traceability through auditable computational infrastructure and evidence-based analytical artifact generation.
 
 ---
 
 <div align="center">
 
-# QAI-NEXUS-PROOF™
+## QAI-NEXUS-PROOF™
 
-### Reproducible Computational Validation Infrastructure
+### Reproducible Computational Validation Framework
 
-© 2026 Dr. B. Mazumdar  
-All Rights Reserved
+Canonical DOI
+
+https://doi.org/10.5281/zenodo.19188944
+
+Latest DOI
+
+https://doi.org/10.5281/zenodo.20345444
+
+ORCID
+
+https://orcid.org/0009-0007-5615-3558
+
+© 2026 Dr. B. Mazumdar
 
 </div>
