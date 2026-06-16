@@ -1,0 +1,16 @@
+Component,Status
+Data,Completed
+EDA,Completed
+Imputation,Completed
+Standardization,Completed
+PCA,Completed
+TOPSIS,Completed
+Explainability,Completed
+XGBoost,Completed
+Panel Regression,Completed
+Hausman,Completed
+Monte Carlo,Completed
+Bootstrap,Completed
+Sensitivity,Completed
+Publication Tables,Completed
+ZIP Packages,Completed
