@@ -1,92 +1,72 @@
-# QAI-NEXUS-PROOF™
+# 🌐 QAI-NEXUS-PROOF™
+## ⚛️ Quantum–AI Energy Synchronization Nexus
+### Reproducible Computational Validation • Infrastructure Intelligence • Governance Analytics • FAIR Research Archive
 
-## Quantum-AI Energy Synchronization Nexus
+<p align="center">
 
-### Reproducible Computational Validation Framework
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Research](https://img.shields.io/badge/Research-Computational%20Validation-2E8B57?style=for-the-badge)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-Deterministic-00C853?style=for-the-badge)
+![MonteCarlo](https://img.shields.io/badge/Monte%20Carlo-Validated-FF9800?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Verified-7B1FA2?style=for-the-badge)
+![Telemetry](https://img.shields.io/badge/Runtime-Telemetry-D32F2F?style=for-the-badge)
+![Integrity](https://img.shields.io/badge/Integrity-SHA256-1B5E20?style=for-the-badge)
+![License](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-8B0000?style=for-the-badge)
+![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20345444-1565C0?style=for-the-badge)
 
-Reproducible computational infrastructure for deterministic execution verification, harmonized data integration, statistical robustness assessment, telemetry inspection, cryptographic integrity validation, and publication-grade research reproducibility.
-
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
-![Research](https://img.shields.io/badge/Research-Computational%20Validation-success.svg)
-![Reproducibility](https://img.shields.io/badge/Reproducibility-Deterministic-brightgreen.svg)
-![MonteCarlo](https://img.shields.io/badge/Monte%20Carlo-Validated-orange.svg)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Verified-blueviolet.svg)
-![Telemetry](https://img.shields.io/badge/Runtime-Telemetry-critical.svg)
-![Integrity](https://img.shields.io/badge/Integrity-SHA256-darkgreen.svg)
-![License](https://img.shields.io/badge/License-Research%20Protected-darkred.svg)
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20345444-informational.svg)
-
----
-
-# DOI References
-
-| Identifier | Reference |
-|------------|------------|
-| Canonical DOI | https://doi.org/10.5281/zenodo.19188944 |
-| Latest DOI | https://doi.org/10.5281/zenodo.20345444 |
-| ORCID | https://orcid.org/0009-0007-5615-3558 |
+</p>
 
 ---
 
-# Abstract
+# 📖 Overview
 
-QAI-NEXUS-PROOF™ is a reproducible computational validation framework designed for deterministic execution control, harmonized data integration, statistical robustness assessment, runtime telemetry inspection, cryptographic integrity verification, and evidence-based analytical reproducibility.
+QAI-NEXUS-PROOF™ is a consolidated computational research archive providing reproducible analytical infrastructure, governance-oriented validation workflows, publication assets, statistical outputs, visualization resources, metadata records, and long-term preservation materials.
 
-The framework establishes a transparent computational environment for integrating multidomain research datasets and generating validation-ready analytical artifacts suitable for scientific reproducibility, computational governance, research traceability, long-term archival preservation, independent verification, and audit-ready analytical workflows.
-
-The validated workflow integrates human development, innovation, environmental sustainability, electricity generation, and digital infrastructure indicators into a harmonized analytical dataset while maintaining reproducibility, auditability, transparency, and computational integrity throughout the execution lifecycle.
-
-### Core Capabilities
-
-- Deterministic Execution Verification
-- Reproducible Dataset Harmonization
-- Statistical Robustness Assessment
-- Monte Carlo Simulation Validation
-- Bootstrap Confidence Validation
-- Runtime Telemetry Inspection
-- SHA-256 Integrity Verification
-- Environment Reconstruction
-- Computational Traceability
-- Research Metadata Generation
-- Audit-Ready Validation Workflows
-- Publication-Grade Analytical Outputs
+The repository integrates deterministic computational execution, harmonized data processing, statistical robustness evaluation, cryptographic integrity verification, provenance preservation, and publication-ready research packaging into a unified archival framework.
 
 ---
 
-# DOI and Research Identity
+# ✨ Core Highlights
 
-| Item | Value |
-|--------|--------|
-| Canonical DOI | https://doi.org/10.5281/zenodo.19188944 |
-| Latest DOI | https://doi.org/10.5281/zenodo.20345444 |
-| Related Framework DOI | https://doi.org/10.5281/zenodo.19188945 |
-| ORCID | https://orcid.org/0009-0007-5615-3558 |
-| Repository | https://github.com/BidyutMazumdar/qai-nexus-proof |
-| Publisher | Zenodo |
-| Resource Type | Report |
-| Development Status | Active |
-
----
-
-# Research Objectives
-
-| Objective | Description |
-|------------|-------------|
-| Deterministic Execution | Validate invariant computational outputs under controlled execution environments |
-| Reproducibility | Enable independent reconstruction of computational workflows |
-| Statistical Robustness | Evaluate analytical stability through simulation-based validation |
-| Runtime Transparency | Monitor execution characteristics through telemetry inspection |
-| Integrity Verification | Preserve computational lineage through cryptographic validation |
-| Environment Reconstruction | Capture execution metadata for reproducible deployment |
-| Computational Auditability | Support transparent validation and inspection procedures |
-| Data Harmonization | Integrate heterogeneous research datasets into a unified analytical framework |
+| Feature | Status |
+|---------------------------------|----------------|
+| Deterministic Computational Workflow | ✅ |
+| Publication Ready Archive | ✅ |
+| FAIR Research Assets | ✅ |
+| DOI Registered | ✅ |
+| SHA256 Integrity Verification | ✅ |
+| Reproducibility Documentation | ✅ |
+| Runtime Telemetry | ✅ |
+| Provenance Preservation | ✅ |
+| Canonical Distribution Package | ✅ |
+| Long-Term Archival Structure | ✅ |
 
 ---
 
-# Repository Architecture
+# 🏛 Research Scope
 
-```text
-qai-nexus-proof/
+- Artificial Intelligence Infrastructure
+- Computational Governance
+- Infrastructure Intelligence
+- Energy–AI Synchronization
+- Infrastructure Benchmarking
+- Policy Analytics
+- Statistical Validation
+- Data Governance
+- Digital Sovereignty
+- FAIR Research Infrastructure
+- Open Scientific Workflows
+- Reproducible Computational Science
+- Research Repository Engineering
+- Metadata Management
+- Long-Term Digital Preservation
+
+---
+
+# 📦 Repository Architecture
+
+```
+QAI_NEXUS_RELEASE_V2/
 │
 ├── 01_MANUSCRIPT/
 ├── 02_DATA/
@@ -95,547 +75,295 @@ qai-nexus-proof/
 ├── 05_TABLES/
 ├── 06_SUPPLEMENTARY/
 ├── 07_REPRODUCIBILITY/
-├── 08_DOCUMENTATION/
-├── 09_IP/
-├── 10_RELEASE/
-│
-├── core/
-│   ├── validation_pipeline.py
-│   ├── deterministic_runtime.py
-│   ├── integrity_verifier.py
-│   └── execution_engine.py
-│
-├── simulation/
-│   ├── monte_carlo/
-│   ├── bootstrap/
-│   ├── replay_engine/
-│   └── robustness_analysis/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   ├── benchmark/
-│   └── validation/
-│
-├── results/
-│   ├── analytics/
-│   ├── telemetry/
-│   ├── integrity/
-│   └── validation/
-│
-├── requirements.txt
-├── LICENSE.md
-└── README.md
+├── 09_DOCUMENTATION/
+├── 10_IP/
+├── 11_RELEASE/
+├── DOI_INFORMATION.txt
+├── ORCID.txt
+└── SHA256SUMS.txt
 ```
 
 ---
 
-# Research Data Sources
+# 📊 Computational Workflow
 
-| Dataset | Organization | Domain |
-|----------|-------------|---------|
-| HDR25 Human Development Report | UNDP | Human Development |
-| Global Innovation Index | WIPO | Innovation |
-| ICT Indicator Aggregates | ITU | Digital Infrastructure |
-| Global Electricity Generation Dataset | Ember | Energy Systems |
-| CO₂ Emissions Per Capita Dataset | Our World in Data | Environmental Indicators |
-
----
-
-# Publication Dataset Statistics
-
-| Metric | Value |
-|----------|--------|
-| Harmonized Records | 260 |
-| Unique Countries and Territories | 259 |
-| Variables | 14 |
-| Reference Year | 2023 |
-| Duplicate Country-Year Records | 0 |
-| Monte Carlo Iterations | 1000 |
-| Bootstrap Iterations | 1000 |
-| Runtime | 0.1427 Seconds |
-| Generated Validation Artifacts | 18 |
-
----
-
-# Harmonized Research Outputs
-
-## Core Research Dataset
-
-```text
-global_harmonized_dataset_v2.csv
 ```
-
-## Supporting Validation Files
-
-```text
-country_coverage_report.csv
-merge_validation_report_v2.csv
-research_metadata_v2.json
-dataset_inventory.csv
-dataset_structure_report.csv
-wipo_country_2023.csv
-wipo_country_record_counts.csv
-```
-
----
-
-# Computational Validation Components
-
-## 1. Dataset Inventory Validation
-
-### Purpose
-
-- Dataset Discovery
-- File Verification
-- Inventory Generation
-- Source Traceability
-
-### Output
-
-```text
-dataset_inventory.csv
+Raw Data
+    │
+    ▼
+EDA
+    │
+    ▼
+Missing Value Imputation
+    │
+    ▼
+Feature Standardization
+    │
+    ▼
+Principal Component Analysis (PCA)
+    │
+    ▼
+TOPSIS Composite Index
+    │
+    ▼
+XGBoost Evaluation
+    │
+    ▼
+SHAP Importance
+    │
+    ▼
+Permutation Importance
+    │
+    ▼
+Panel Regression
+    │
+    ▼
+Hausman Test
+    │
+    ▼
+Monte Carlo Validation
+    │
+    ▼
+Bootstrap Validation
+    │
+    ▼
+Sensitivity Analysis
+    │
+    ▼
+Publication Tables
+    │
+    ▼
+Visualization
+    │
+    ▼
+Canonical Research Archive
 ```
 
 ---
 
-## 2. Dataset Structure Validation
+# 📁 Repository Statistics
 
-### Purpose
-
-- Schema Inspection
-- Variable Discovery
-- Structural Verification
-- Missing-Value Assessment
-
-### Output
-
-```text
-dataset_structure_report.csv
-```
-
----
-
-## 3. Global Harmonization Pipeline
-
-### Purpose
-
-- Country-Level Integration
-- Cross-Source Harmonization
-- Temporal Alignment
-- Publication-Grade Dataset Construction
-
-### Outputs
-
-```text
-global_harmonized_dataset_v2.csv
-country_coverage_report.csv
-merge_validation_report_v2.csv
-research_metadata_v2.json
-```
+| Component | Count |
+|---------------------------|-----------|
+| Canonical Files | 219 |
+| CSV Datasets | 109 |
+| Markdown Documents | 38 |
+| JSON Metadata | 20 |
+| TXT Documentation | 12 |
+| PNG Figures | 12 |
+| PDF Documents | 10 |
+| SVG Graphics | 9 |
+| XLSX Resources | 4 |
+| YML Configuration | 2 |
+| Shell Scripts | 1 |
+| CFF Citation File | 1 |
+| DOCX Document | 1 |
 
 ---
 
-## 4. Correlation Analysis
+# 📈 Statistical Modules
 
-### Output
+✅ Exploratory Data Analysis
 
-```text
-correlation_matrix.csv
-```
+✅ Missing Value Imputation
 
----
+✅ Feature Standardization
 
-## 5. HDI–CO₂ Analysis
+✅ Principal Component Analysis
 
-### Output
+✅ TOPSIS Composite Index
 
-```text
-hdi_vs_co2_analysis.csv
-```
+✅ Correlation Analysis
 
----
+✅ XGBoost Modeling
 
-## 6. HDI–Innovation Analysis
+✅ SHAP Feature Importance
 
-### Output
+✅ Permutation Importance
 
-```text
-hdi_vs_innovation_analysis.csv
-```
+✅ Fixed Effect Regression
 
----
+✅ Random Effect Regression
 
-## 7. Innovation–Electricity Analysis
+✅ Hausman Test
 
-### Output
+✅ Bootstrap Validation
 
-```text
-innovation_vs_electricity_analysis.csv
-```
+✅ Monte Carlo Simulation
+
+✅ Sensitivity Analysis
+
+✅ Publication Table Generation
 
 ---
 
-## 8. Composite Nexus Score Construction
+# 📂 Release Packages
 
-### Output
-
-```text
-composite_nexus_scores.csv
-```
-
----
-
-## 9. Monte Carlo Robustness Testing
-
-| Configuration | Value |
-|--------------|--------|
-| Iterations | 1000 |
-
-### Output
-
-```text
-monte_carlo_results.csv
-```
+| Package | Status |
+|-----------------------------------------------|------------|
+| QAI_NEXUS_SUPREME_V2_FINAL.zip | ✅ |
+| QAI_NEXUS_V2_DOI_PUBLICATION_READY.zip | ✅ |
+| QAI_NEXUS_V2_INSTITUTIONAL_SUBMISSION_BUNDLE_V2.zip | ✅ |
+| QAI_NEXUS_V2_R1_ARCHIVAL_SUBMISSION_PACKAGE.zip | ✅ |
+| QAI_NEXUS_V2_SUBMISSION_BUNDLE.zip | ✅ |
+| QAI_NEXUS_V2_UNIFIED_CANONICAL_RELEASE.zip | ✅ |
+| QAI_NEXUS_V2_VISUALIZATION_LAYER.zip | ✅ |
+| QAI_NEXUS_V2_CANONICAL_MASTER_RELEASE.zip | ✅ |
 
 ---
 
-## 10. Bootstrap Confidence Validation
+# 🔍 Archive Validation
 
-| Configuration | Value |
-|--------------|--------|
-| Iterations | 1000 |
+✔ Archive Inventory Analysis
 
-### Output
+✔ Cross-Package Reconciliation
 
-```text
-bootstrap_validation.csv
-```
+✔ Duplicate Detection
 
----
+✔ Nested Archive Inspection
 
-## 11. Runtime Telemetry Logging
+✔ Manifest Verification
 
-### Output
+✔ Metadata Validation
 
-```text
-runtime_telemetry.csv
-```
+✔ Provenance Review
 
----
+✔ Citation Asset Verification
 
-## 12. Cryptographic Integrity Verification
+✔ Documentation Verification
 
-| Verification Standard | Value |
-|------------------------|--------|
-| Hash Algorithm | SHA-256 |
+✔ Runtime Validation
 
-### Output
+✔ SHA256 Integrity Verification
 
-```text
-execution_hashes.csv
-```
+✔ Canonical Reconstruction
+
+✔ Publication Readiness Audit
 
 ---
 
-## 13. Environment Reconstruction
+# 📊 Pipeline Summary
 
-### Output
-
-```text
-environment_manifest.json
-```
-
----
-
-# Reproducibility Workflow
-
-## Installation
-
-```bash
-git clone https://github.com/BidyutMazumdar/qai-nexus-proof.git
-
-cd qai-nexus-proof
-
-pip install -r requirements.txt
-```
-
-## Execution
-
-```bash
-python core/validation_pipeline.py
-
-python core/deterministic_runtime.py
-
-python core/integrity_verifier.py
-```
+| Stage | Status |
+|---------------------------|------------|
+| Master Panel | ✅ |
+| EDA | ✅ |
+| Imputation | ✅ |
+| Standardization | ✅ |
+| PCA | ✅ |
+| TOPSIS | ✅ |
+| SHAP | ✅ |
+| XGBoost | ✅ |
+| Panel Regression | ✅ |
+| Hausman Test | ✅ |
+| Monte Carlo | ✅ |
+| Bootstrap | ✅ |
+| Sensitivity Analysis | ✅ |
+| Publication Tables | ✅ |
+| Visualization | ✅ |
+| Final Package | ✅ |
 
 ---
 
-# Validation Results Summary
+# 🗂 Included Assets
 
-| Validation Layer | Status |
-|-----------------|---------|
-| Dataset Inventory Validation | Verified |
-| Dataset Structure Validation | Verified |
-| Country-Level Harmonization | Verified |
-| Country-Year Deduplication | Verified |
-| Correlation Analysis | Verified |
-| HDI–CO₂ Analysis | Verified |
-| HDI–Innovation Analysis | Verified |
-| Innovation–Electricity Analysis | Verified |
-| Composite Nexus Score Construction | Verified |
-| Monte Carlo Robustness Testing | Verified |
-| Bootstrap Confidence Validation | Verified |
-| Runtime Telemetry Logging | Verified |
-| SHA-256 Integrity Verification | Verified |
-| Environment Manifest Generation | Verified |
+### Research Data
 
----
+- Harmonized Datasets
+- Master Analytical Tables
+- Country Coverage Data
+- Composite Indices
+- Validation Outputs
+- Statistical Reports
 
-# Scientific Standards
+### Computational Outputs
 
-The framework follows internationally recognized computational reproducibility and scientific transparency principles:
+- PCA Results
+- TOPSIS Scores
+- Bootstrap Results
+- Monte Carlo Results
+- Correlation Matrices
+- SHAP Importance
+- Permutation Importance
 
-- Deterministic Execution
-- Reproducible Computation
-- Statistical Verification
-- Computational Auditability
-- Runtime Transparency
-- Data Provenance Preservation
-- Integrity-Preserving Computation
-- Environment Reconstruction
-- Computational Traceability
-- Research Artifact Preservation
+### Publication Assets
 
----
+- Manuscripts
+- Publication Tables
+- Supplementary Materials
+- Citation Resources
+- Evidence Inventories
 
-# Data Provenance
+### Reproducibility Assets
 
-| Dataset | Organization | Coverage |
-|----------|-------------|----------|
-| Human Development Index | UNDP | Human Development |
-| Global Innovation Index | WIPO | Innovation |
-| ICT Indicators | ITU | Digital Infrastructure |
-| Electricity Generation Dataset | Ember | Energy Systems |
-| CO₂ Emissions Per Capita | Our World in Data | Environmental Indicators |
+- Environment Specifications
+- Runtime Manifests
+- Dependency Records
+- Execution Documentation
 
----
+### Documentation
 
-# Integrity Verification Evidence
+- README
+- Citation Files
+- Metadata Records
+- Audit Reports
+- Release Manifests
+- Provenance Records
 
-| Item | Value |
-|--------|--------|
-| Generated Artifact | execution_hashes.csv |
-| Verification Method | SHA-256 Cryptographic Hashing |
+### Visualization
 
-### Verification Scope
-
-- Artifact Authenticity
-- Computational Lineage Preservation
-- Reproducibility Assurance
-- Integrity Validation
+- Publication Figures
+- Analytical Dashboards
+- PNG Graphics
+- SVG Figures
+- Ranking Heatmaps
 
 ---
 
-# Computational Environment
+# 🔐 Integrity & Preservation
 
-| Metadata Category | Captured |
-|------------------|----------|
-| Python Version | Yes |
-| Dependency Versions | Yes |
-| Runtime Platform | Yes |
-| Operating System Metadata | Yes |
-| Execution Timestamp | Yes |
-| Computational Fingerprints | Yes |
-| Environment Reconstruction Parameters | Yes |
-
-### Environment Manifest
-
-```text
-environment_manifest.json
-```
+- SHA256 Checksum Verification
+- Cryptographic Integrity Validation
+- Metadata Preservation
+- Citation Preservation
+- Provenance Traceability
+- Documentation Preservation
+- Reproducibility Preservation
+- Canonical Distribution Preservation
 
 ---
 
-# Validation Package Archive
+# 🌍 Research Domains
 
-| Item | Value |
-|--------|--------|
-| Archive | QAI_NEXUS_PROOF_RESEARCH_OUTPUTS.zip |
-| Artifacts Included | 18 |
-
-### Package Purpose
-
-- Reproducibility
-- Validation
-- Auditability
-- Archival Preservation
+Artificial Intelligence • Computational Governance • Infrastructure Intelligence • Energy Systems • Infrastructure Benchmarking • FAIR Research • Open Science • Statistical Computing • Digital Preservation • Data Governance • Infrastructure Analytics • Reproducible Research • Scientific Archives • Metadata Engineering • Policy Analytics
 
 ---
 
-# Zenodo Record Information
+# 📑 Persistent Identifiers
 
-| Item | Value |
-|--------|--------|
-| Record Version | VXØ |
-| Publication Date | June 13, 2026 |
-| Resource Type | Report |
-| Publisher | Zenodo |
-| License | CC BY-NC-ND 4.0 |
-| Rights Holder | Dr. B. Mazumdar |
-| Views | 118 |
-| Downloads | 138 |
+| Resource | Identifier |
+|--------------------------------|--------------------------------|
+| Latest DOI | **10.5281/zenodo.20345444** |
+| Canonical DOI | **10.5281/zenodo.19188944** |
+| Related Framework DOI | **10.5281/zenodo.19188945** |
+| ORCID | **0009-0007-5615-3558** |
 
 ---
 
-# Canonical Archive Information
+# 📜 Citation
 
-| Item | Value |
-|--------|--------|
-| Archive Name | QAI_NEXUS_V2_CANONICAL_MASTER_RELEASE.zip |
-| Total Files | 219 |
-| Nested ZIP Archives | 0 |
-| Publication Readiness | PASS |
-| Citation Assets | Present |
-| Documentation Assets | Present |
-| License Assets | Present |
-| Manifest Assets | Present |
-| Reproducibility Assets | Present |
-| Checksum Assets | Present |
+**Mazumdar, B. (2026). SAIIS (VGX) (VXØ). Zenodo. https://doi.org/10.5281/zenodo.20345444**
 
 ---
 
-# Persistent Identifiers
+# 🏷 Keywords
 
-| Identifier | Reference |
-|------------|------------|
-| Canonical DOI | https://doi.org/10.5281/zenodo.19188944 |
-| Latest DOI | https://doi.org/10.5281/zenodo.20345444 |
-| Related Framework DOI | https://doi.org/10.5281/zenodo.19188945 |
-| ORCID | https://orcid.org/0009-0007-5615-3558 |
+AI Infrastructure • Infrastructure Governance • Autonomous Infrastructure Systems • Energy–AI Integration • Computational Governance • Infrastructure Intelligence • Data Sovereignty • FAIR Data • Open Science • Digital Preservation • Research Infrastructure • Benchmarking Systems • Statistical Analytics • Reproducible Computing • Metadata Management • Scientific Archives • Infrastructure Readiness • Policy Intelligence • Global Index Systems • Repository Engineering
 
 ---
 
-# Generated Research Artifacts
+<p align="center">
 
-```text
-global_harmonized_dataset_v2.csv
-country_coverage_report.csv
-merge_validation_report_v2.csv
-research_metadata_v2.json
-dataset_inventory.csv
-dataset_structure_report.csv
-wipo_country_2023.csv
-wipo_country_record_counts.csv
-correlation_matrix.csv
-hdi_vs_co2_analysis.csv
-hdi_vs_innovation_analysis.csv
-innovation_vs_electricity_analysis.csv
-composite_nexus_scores.csv
-monte_carlo_results.csv
-bootstrap_validation.csv
-runtime_telemetry.csv
-execution_hashes.csv
-environment_manifest.json
-```
+### ⚡ Deterministic • Reproducible • Verifiable • FAIR • DOI Registered • Canonical Research Archive ⚡
 
----
-
-# Citation
-
-## BibTeX
-
-```bibtex
-@software{mazumdar_qai_nexus_proof_2026,
-  author       = {B. Mazumdar},
-  title        = {QAI-NEXUS-PROOF: Reproducible Computational Validation Framework},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20345444},
-  url          = {https://doi.org/10.5281/zenodo.20345444}
-}
-```
-
----
-
-# Author
-
-**Dr. B. Mazumdar**  
-D.Sc. (Hon.), D.Litt. (Hon.)  
-Independent Research Scholar  
-
-**ORCID:** https://orcid.org/0009-0007-5615-3558
-
----
-
-# License and Intellectual Property
-
-## Permitted Usage
-
-- Academic Citation
-- Educational Research
-- Scientific Discussion
-- Reproducibility Assessment
-- Non-Commercial Scholarly Reference
-
-## Restricted Usage
-
-- Unauthorized Commercial Redistribution
-- Proprietary Resale
-- Misrepresentation of Authorship
-- Unattributed Derivative Publication
-- False Institutional Attribution
-
-Reference: `LICENSE.md`
-
----
-
-# Future Research Roadmap
-
-- Bayesian Uncertainty Propagation
-- Federated Reproducibility Systems
-- Distributed Validation Architectures
-- Zero-Trust Execution Verification
-- Advanced Integrity Auditing
-- Cross-Platform Reproducibility Orchestration
-- Quantum-Aware Validation Layers
-
----
-
-# Research Significance
-
-The framework supports research and analytical workflows involving:
-
-- Reproducible Computational Science
-- AI Governance
-- Computational Validation Systems
-- Scientific Transparency
-- Research Traceability
-- Data Harmonization Methodologies
-- Digital Research Infrastructure
-- Innovation Analytics
-- Development Analytics
-- Energy–Environment Integration
-- Integrity-Preserving Computation
-- Computational Auditability
-
----
-
-# Acknowledgment
-
-This repository supports transparent computational research, reproducible scientific workflows, integrity-preserving validation methodologies, long-term research traceability, evidence-based analytical artifact generation, archival preservation, computational auditability, and independent verification through structured and reproducible computational infrastructure.
-
----
-
-## QAI-NEXUS-PROOF™
-
-### Reproducible Computational Validation Framework
-
-| Identifier | Reference |
-|------------|------------|
-| Canonical DOI | https://doi.org/10.5281/zenodo.19188944 |
-| Latest DOI | https://doi.org/10.5281/zenodo.20345444 |
-| ORCID | https://orcid.org/0009-0007-5615-3558 |
-
-© 2026 Dr. B. Mazumdar
+</p>
