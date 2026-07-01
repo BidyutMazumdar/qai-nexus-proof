@@ -1,1 +1,0 @@
-# Supplementary Methodology
