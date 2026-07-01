@@ -1,3 +1,0 @@
-DISCLAIMER.md
-
-QAI-NEXUS
