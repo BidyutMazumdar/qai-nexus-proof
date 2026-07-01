@@ -1,9 +1,0 @@
-authors:
-- family-names: Mazumdar
-  given-names: Bidyut
-  orcid: https://orcid.org/0009-0007-5615-3558
-cff-version: 1.2.0
-doi: 10.5281/zenodo.20345444
-license: Custom Research License
-title: QAI-NEXUS
-version: 1.0.0
